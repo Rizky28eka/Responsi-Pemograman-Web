@@ -23,7 +23,8 @@ Projek ini merupakan responsi untuk mata kuliah Pemrograman Web dengan dosen pen
 
 ### Demo Project :
 
-<video width="640" height="360" controls>
-  <source src="videos/nama-video.mov" type="video/quicktime">
-  Maaf, browser Anda tidak mendukung tag video.
+<video width="100%" controls>
+  <source src="Responsi-Web/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+
