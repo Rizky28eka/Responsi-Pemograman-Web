@@ -23,8 +23,6 @@ Projek ini merupakan responsi untuk mata kuliah Pemrograman Web dengan dosen pen
 
 ### Demo Project :
 
-<video width="100%" controls>
-  <source src="Responsi-Web/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/7be1a3f7-fe64-4851-9a3e-5ddfab9a92b5
 
